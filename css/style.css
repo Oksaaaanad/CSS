@@ -1,16 +1,11 @@
-h3:first-child {
-  color: pink;
-}
-div:nth-child(5) p {
-  color: red;
-}
-p:nth-child(7) {
-  color: green;
-}
-
-#greycol {
-  color: grey;
-}
-.yellow {
-  color: yellow;
+.box {
+  width: 350px;
+  height: 220px;
+  padding-top: 15 px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+  border: dashed 2px red;
+  background-color: green;
 }
